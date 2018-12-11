@@ -80,7 +80,9 @@
 		</span>
 		<!-- ENDIF !reputation:disabled -->
 
-		{posts.reactions}
+		<span style="display:inline-block; margin:0 -5px 0 10px;">
+			{posts.reactions}
+		</span>
 
 		<!-- IMPORT partials/topic/post-menu.tpl -->
 	</small>
