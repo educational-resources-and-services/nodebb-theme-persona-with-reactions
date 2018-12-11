@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart"
+    "id": "nodebb-theme-persona-with-reactions",
+    "name": "Persona (with support for reactions)",
+    "description": "Allows for usage of the nodebb-plugin-reactions plugin.",
+    "url": "https://github.com/nodebb/nodebb-theme-persona-with-reactions"
 }

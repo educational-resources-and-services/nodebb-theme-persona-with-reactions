@@ -1,10 +1,14 @@
 {
-  "name": "nodebb-theme-quickstart",
-  "version": "0.0.0",
-  "description": "Enter a description here",
+  "name": "nodebb-theme-persona-with-reactions",
+  "version": "0.1.0",
+  "description": "Persona (with support for reactions)",
   "main": "theme.less",
   "keywords": [
 
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/educational-resources-and-services/nodebb-theme-persona-with-reactions"
+  },
   "license": "MIT"
 }
